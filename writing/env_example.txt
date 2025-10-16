@@ -1,0 +1,8 @@
+# 火山方舟API密钥配置
+# 请复制此文件为 .env 并填入您的真实API密钥
+
+VOLCANO_API_KEY=your_volcano_api_key_here
+
+# 其他可选配置
+# FLASK_DEBUG=False
+# FLASK_PORT=8080
