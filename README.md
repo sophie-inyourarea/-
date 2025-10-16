@@ -14,9 +14,6 @@
 - 📋 **规则限制**：应用用户设定的限制规则
 - ✏️ **多轮编辑**：支持多轮对话和编辑
 - 🧠 **持续学习**：从每次交互中学习新的偏好和规则
-- 🔄 **去重机制**：避免学习重复的偏好和规则
-- 🌐 **Web界面**：现代化的Web交互界面
-- 📱 **响应式设计**：完美适配桌面和移动端
 
 ## 🚀 快速开始
 
@@ -194,21 +191,7 @@ python web_interface.py
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
 
-## 📞 联系方式
 
-如有问题或建议，请通过以下方式联系：
-
-- 🐛 创建 [Issue](https://github.com/yourusername/writing-ai-agent/issues)
-- 📧 发送邮件
-- 🔄 提交 [Pull Request](https://github.com/yourusername/writing-ai-agent/pulls)
-
-## 🌟 致谢
-
-- [火山方舟](https://www.volcengine.com) - 提供大语言模型服务
-- [Flask](https://flask.palletsprojects.com) - Web框架
-- [scikit-learn](https://scikit-learn.org) - 机器学习库
-
----
 
 **⚠️ 注意**：使用前请确保已获得火山方舟API的访问权限，并正确配置API密钥。
 
